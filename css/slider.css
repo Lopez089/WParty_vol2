@@ -1,0 +1,11 @@
+#slider_contenedor
+{
+	
+	width:2688px; /*modificar*/
+	height:413px;
+}
+
+#slider_contenedor img 
+{
+	float:left;
+}

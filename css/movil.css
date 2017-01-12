@@ -1,0 +1,9 @@
+/*MENU PRINCIPAL*/
+#logo
+{
+	background:url(../img/movil/logo_wp.png)  no-repeat 0%  50% ;
+	width:89px;
+	height:89px;
+	margin-left:84px;
+	position:absolute;
+}

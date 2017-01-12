@@ -1,0 +1,453 @@
+body
+{
+	background:url(../img/bg.jpg)  repeat ; 
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	width:100%;
+	height:auto%;
+}
+
+#contenedor
+{
+	background:;
+	width:100%;
+	height:auto;
+	position:;
+}
+
+/*cabezera*/
+#cabezera
+{
+	background:;
+	width:100%;
+	height:131px;
+	position:relative;
+	margin-top:-21px;
+}
+
+#cabezera h1
+{
+	background:;
+	width:54%;
+	height:41px;
+	position:;
+	font-family: "Kozuka Gothic Pro" ;
+	color:#ffffff;
+	text-shadow:2px 3px 10px  #000000;
+	font-size:24pt;
+	padding-top:24px;
+	padding-left:57px;
+	
+}
+
+#cabezera h2
+{
+	background:;
+	width:39%;
+	height:65px;
+	position:;
+	margin-top:-21px;
+	font-family: "Kozuka Gothic Pro" ;
+	color:#ffffff;
+	text-shadow:2px 3px 10px  #000000;
+	font-size:14pt;
+	padding-top:;
+	padding-left:200px;
+}
+
+#logo
+{
+	background:url(../img/eventos/logotipos/la_galeria.png)  no-repeat  50% 50%;
+	width:38%;
+	height:131px;
+	position:absolute;
+	margin-top:-145px;
+	margin-left:61%;
+}
+
+
+
+/*slide*/
+#slider
+{
+	background: url(../img/slider/fondo_slide.jpg)  ;
+	margin-left:0%;
+	overflow:hidden;
+	width:100%;
+	height:413px;
+	position:;
+	
+}
+
+
+
+
+
+/*pie*/
+#pie
+{
+	background:;
+	width:100%;
+	height:51px;
+	position:relative;
+}
+
+
+#tabss
+{
+	background:url(../img/bg_contenido.jpg)  repeat;
+	width:100%;
+	height:auto;
+	position:relative;
+}
+
+.contenedor_tab{
+	float:left;
+	clear:both;
+	width:100%;
+	padding:0px;
+	margin:0 auto;
+	display:block;
+	background:;
+}
+.contenido_tab{
+	padding:10px;
+	font-size:1.2em;
+	width:100%;
+}
+.contenido_tab img{
+	margin:0 20px 20px 0;
+	padding:5px
+}
+ul.tabs{
+	background:;
+	float:left;
+	margin:;
+	padding:0;
+	height:120px;
+	width:100%;
+	margin-top:-62px;
+}
+ul.tabs li{
+	background:;
+	float:left;
+	width:33%;
+	margin:0;
+	padding:0;
+	height:120px;
+	line-height:120px;
+	/*border:1px solid #333;*/
+	margin-bottom:0px;
+	background:;
+	overflow:hidden;
+	position:relative;
+		
+}
+
+ul.tabs li a{
+	background:;
+	text-decoration:none;
+	font-family: "Berlin Sans FB" ;
+	color:#2c3033;
+	font-size:13pt;
+	vertical-align:  ;
+	display:block;
+	padding-TOP:53px;
+	outline:none;
+	text-align:center;
+	margin-top:px;
+
+}
+
+/*info*/
+
+ #Informacion  {
+	background:url(../img/eventos/info.png) no-repeat   50% 25%;
+	-webkit-transition: all .7s;
+	transition: all .7s;
+}
+
+ #Informacion:hover{
+	color:#f6ac4e;
+	
+}
+
+ .activa  #Informacion {
+	color:#f6ac4e;
+}
+
+/*twitter*/
+
+ #twitter  {
+	background:url(../img/eventos/Twitter.png) no-repeat   50% 25%;
+	-webkit-transition: all .7s;
+	transition: all .7s;
+}
+
+ #twitter:hover{
+	color:#41beed;
+	
+}
+
+ .activa  #twitter {
+	color:#41beed;
+}
+
+/*mapa*/
+
+ #mapa  {
+	background:url(../img/eventos/mapa.png) no-repeat   50% 25%;
+	-webkit-transition: all .7s;
+	transition: all .7s;
+}
+
+ #mapa:hover{
+	color:#a48bb4;
+	
+}
+
+ .activa  #mapa {
+	color:#a48bb4;
+}
+
+
+.twitter-timeline{
+	width:70%;
+	margin-left:15%;
+}
+
+#tab1{
+
+font-family: "Berlin Sans FB" ;
+}
+
+#tab1 p{
+	width:70%;
+	margin-left:15%;
+	text-align:justify;
+}
+#tab1 H3{
+	
+	text-align:center;
+}
+
+/*mapa*/
+
+#contenedor_mapa
+{
+	background: #d0d0ce;
+	width:50%;
+	height:468px;
+	margin-left:50px;
+	border-radius:30px ;
+	margin-top:30px;
+	box-shadow:1px 1px  5px  #000;
+	-moz-box-shadow:1px 1px  5px  #000;
+	-webkit-box-shadow:1px 1px  5px  #000;
+	margin-bottom:40px;
+	float:left;
+	
+}
+
+#contenedor_mapa iframe
+{
+	background: #d0d0ce;
+	width:90%;
+	height:408px;
+	margin-left:5%;
+	margin-top:30px;
+	
+}
+
+small{visibility:hidden;}
+
+#info-mapa{
+	background: ;
+	width:30%;
+	height:468px;
+	margin-left:60%;
+	margin-top:-468px;
+	float:left; 
+	position:absolute;
+}
+
+#info-mapa H3{
+	font-family: "Berlin Sans FB" ;
+	color:#000;
+	font-size: 1 em;
+	padding-TOP:53px;
+	text-align:left;
+	}
+	
+#info-mapa H6{
+	font-family: "Berlin Sans FB" ;
+	color:#000;
+	font-size: 0.5 em;
+	text-align:center;
+	margin-top:-5px;
+	}
+	
+	
+/*pie*/
+
+
+#pie{
+	background: ;
+	width:84%;
+	height:65px;
+	padding-top:35px;
+	padding-left:14%;
+}
+
+
+
+#pie a{
+	margin-left:20px;
+	margin-top:20%;
+	text-decoration:none;
+	font-family: "Berlin Sans FB" ;
+	color:#ffffff;
+	text-shadow:2px 3px 18px  #000000;
+	font-size:18pt;
+}
+
+
+#twitter-pq a{
+	background:  url(../img/eventos/TwitterPot.png) no-repeat ;
+	width:40px;
+	height:38px;
+	margin-left:61.5%;
+	margin-top:-29px;
+	position:absolute;
+	-webkit-transition: all .9s;
+	transition: all .9s;
+}
+
+#twitter-pq a:hover{
+	background:url(../img/eventos/TwitterPot-hover.png) no-repeat;
+	width:40px;
+	height:38px;
+}
+
+#face-pq a{
+	background: url(../img/eventos/facepot.png) no-repeat ;
+	width:40px;
+	height:40px;
+	margin-left:66%;
+	margin-top:-29px;
+	position:absolute;
+	-webkit-transition: all .9s;
+	transition: all .9s;
+	padding-left:12px;
+}
+
+#face-pq a:hover{
+	background:url(../img/eventos/facepot-hover.png) no-repeat;
+	width:40px;
+	height:40px;
+}
+
+/*contenido*/
+
+#tab1 h1 {
+	font-family: "Berlin Sans FB" ;
+	color:#000;
+	text-align:center;
+	font-size:30pt;
+}
+
+#info  {
+	width:99%;
+	height:478px;
+}
+
+#cartel{
+	width:38%;
+	height:478px;
+}
+
+#cartel img{
+	margin-top:35px;
+	margin-left:15%;
+}
+
+#info1{
+	background:;
+	width:61%;
+	height:378px;
+	position:absoluta;
+	margin-top:-497px;
+	margin-left:38%;
+	padding-top:100px;
+}
+
+#info1 p{
+	width:94%;
+	font-size:14pt;
+	margin-left:5%; 
+	margin-top:30px;
+}
+
+#info1 p span{
+	font-size:12pt;
+}
+#compartir{
+	padding-top:90px;
+}
+
+#info2{
+	background:;
+	width:99%;
+	height:auto;
+	margin-top:-15px;
+}
+#info2 p{
+	padding-top:5px;
+}
+
+#hashtag{
+	margin-top:-10px;
+	text-align:center;
+	font-size:30pt;
+	color:#2fb9ed;
+}
+
+
+
+#info3{
+	padding-top:40px;
+	width:40%;
+	height:auto;
+	margin-top:-15px;
+}
+
+#horarios, #tarifas{
+	margin-left:30%;
+	margin-bottom:50px;
+	width:600px;
+	border-collapse: collapse;
+	
+	
+}
+
+.horas{
+	text-align:center;
+}
+
+
+
+#tarifas td{
+	 border-bottom: #000 3px solid; 
+
+}	
+
+#tarifas td{
+	margin-top:30px;
+}	
+
+#fuente{
+	padding-left:100%;
+	font-size:12pt;
+}
+
+
